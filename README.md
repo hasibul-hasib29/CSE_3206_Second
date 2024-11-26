@@ -1,3 +1,4 @@
 # CSE_3206_Second
-author: Hasibul Hasan\n
+
+<p> author: Hasibul Hasan<br> student, Dept of CSE , RUET</p>
 for: c++ testing
